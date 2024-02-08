@@ -1,0 +1,131 @@
+body {
+
+}
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.schaakbord-container {
+    height: 800px;
+    width: 800px;
+    border: 10mm ridge rgba(150, 111, 51, .8);
+}
+.schaakbord-vakjes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vakje-wit {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    Background-repeat: no-repeat;
+    Background-size: cover;
+}
+.vakje-zwart {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(150, 111, 51, .9);
+    Background-repeat: no-repeat;
+    Background-size: cover;
+}
+.menu {
+    width: 600px;
+}
+#vakje1 {
+    background-image: url(/pieces/rook-b.svg);
+}
+#vakje2 {
+    background-image: url(/pieces/knight-b.svg);
+}
+#vakje3 {
+    background-image: url(/pieces/bishop-b.svg);
+}
+#vakje4 {
+    background-image: url(/pieces/queen-b.svg);
+}
+#vakje5 {
+    background-image: url(/pieces/king-b.svg);
+}
+#vakje6 {
+    background-image: url(/pieces/bishop-b.svg);
+}
+#vakje7 {
+    background-image: url(/pieces/knight-b.svg);
+}
+#vakje8 {
+    background-image: url(/pieces/rook-b.svg);
+}
+#vakje9 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje10 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje11 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje12 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje13 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje14 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje15 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje16 {
+    background-image: url(/pieces/pawn-b.svg);
+}
+#vakje49 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje50 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje51 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje52 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje53 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje54 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje55 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje56 {
+    background-image: url(/pieces/pawn-w.svg);
+}
+#vakje57 {
+    background-image: url(/pieces/rook-w.svg);
+}
+#vakje58 {
+    background-image: url(/pieces/knight-w.svg);
+}
+#vakje59 {
+    background-image: url(/pieces/bishop-w.svg);
+}
+#vakje60 {
+    background-image: url(/pieces/queen-w.svg);
+}
+#vakje61 {
+    background-image: url(/pieces/king-w.svg);
+}
+#vakje62 {
+    background-image: url(/pieces/bishop-w.svg);
+}
+#vakje63 {
+    background-image: url(/pieces/knight-w.svg);
+}
+#vakje64 {
+    background-image: url(/pieces/rook-w.svg);
+}
